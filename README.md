@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visitor Pass Management System
 
 A full-stack **MERN application** that digitizes visitor management by replacing paper registers with online appointment requests, host approvals, QR-code passes, and secure visitor check-in/check-out.
@@ -153,3 +154,6 @@ D. Y. Patil College of Engineering, Akurdi, Pune
 
 - GitHub: [vishvajadhav21-ops](https://github.com/vishvajadhav21-ops)
 - LinkedIn: [Vishva Jadhav](https://linkedin.com/in/vishva-jadhav-438364330)
+=======
+# Visitor-Pass-Management-System
+>>>>>>> f4784d45183e24fd5c344ecc445782ea9a5f6f35
