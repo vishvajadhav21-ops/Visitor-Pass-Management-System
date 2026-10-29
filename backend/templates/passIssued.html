@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <h2>Your Visitor Pass is Ready</h2>
+  <p>Hello {{visitorName}},</p>
+  <p>Your visitor pass has been issued. Please present the QR code below at the entry gate.</p>
+  <p><img src="{{qrCodeUrl}}" alt="QR Code" width="200" /></p>
+  <p><strong>Valid From:</strong> {{validFrom}}<br/>
+     <strong>Valid To:</strong> {{validTo}}</p>
+  <p><a href="{{pdfUrl}}">Download your pass (PDF)</a></p>
+</body>
+</html>
